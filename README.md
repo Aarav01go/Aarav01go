@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="right">
-  <img src="image_d69179.png" width="150" />
+  <img src="https://media.tenor.com/8M2N2N6uI3YAAAAM/what-spiderman.gif" width="150" />
 </div>
 
 # 💫 About Me:
