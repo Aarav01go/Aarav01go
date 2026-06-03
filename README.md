@@ -1,6 +1,7 @@
 ## Hi there 👋
 <div align="right">
-  <img src="https://media.tenor.com/8M2N2N6uI3YAAAAM/what-spiderman.gif" width="150" />
+  <img src="<img width="480" height="640" alt="spiderman-peace-sign-spiderman-coming-down" src="https://github.com/user-attachments/assets/40ffa6ee-e9ac-4005-9151-282fadef9459" />
+" width="150" />
 </div>
 
 # 💫 About Me:
