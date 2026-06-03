@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-### 🔭 Currently Working On<br>- Competitive Programming — grinding LeetCode daily<br>- Backend projects<br><br>### 🤝 Looking to Collaborate On<br>- Open source projects<br>- DevOps / Cloud tools<br>- Competitive programming<br><br>### 🌱 Currently Learning<br>- Django (backend framework)<br>- Terminal & shell workflows<br><br>### 💬 Ask Me About<br>- Competitive Programming<br>- Backend Development<br>- DevOps & Cloud<br><br>### ⚡ Fun Fact<br>I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻
+ ### 🔭 Currently Working On<br>- Competitive Programming — grinding LeetCode daily<br>- Backend projects<br><br>### 🤝 Looking to Collaborate On<br>- Open source projects<br>- DevOps / Cloud tools<br>- Competitive programming<br><br>### 🌱 Currently Learning<br>- Django (backend framework)<br>- Terminal & shell workflows<br><br>### 💬 Ask Me About<br>- Competitive Programming<br>- Backend Development<br>- DevOps & Cloud<br><br>### ⚡ Fun Fact<br>I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aarav05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-gupta-67369930b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravg901@gmail.com) 
