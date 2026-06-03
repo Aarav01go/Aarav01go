@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="right">
-  <img src="https://tenor.com/view/what-spiderman-upside-down-reading-gif-14536751" width="150" />
+  <img src="image_d69179.png" width="150" />
 </div>
 
 # 💫 About Me:
