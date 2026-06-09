@@ -53,3 +53,6 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aarav01go&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
