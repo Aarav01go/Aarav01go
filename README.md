@@ -1,15 +1,11 @@
 ## Hi there 👋, I'm Aarav
 <img align="right" src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
 💫 About Me :<br>
-🔭 Currently Working On — Competitive Programming · Backend Projects
-
-🤝 Looking to Collaborate On — Open Source · DevOps / Cloud · Competitive Programming
-
-🌱 Currently Learning — Django · Terminal & Shell Workflows
-
-💬 Ask Me About — Competitive Programming · Backend Development · DevOps & Cloud
-
-⚡ Fun Fact — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻
+🔭 Currently Working On — Competitive Programming · Backend Projects<br>
+🤝 Looking to Collaborate On — Open Source · DevOps / Cloud · Competitive Programming<br>
+🌱 Currently Learning — Django · Terminal & Shell Workflows<br>
+💬 Ask Me About — Competitive Programming · Backend Development · DevOps & Cloud<br>
+⚡ Fun Fact — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻<br>
 
  🌐 Socials:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aarav05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-gupta-67369930b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravg901@gmail.com) 
