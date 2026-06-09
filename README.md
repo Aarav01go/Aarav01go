@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Aarav
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
-</div>
+<img align="right" src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
 💫 About Me :<br>
 |🔭 Currently Working On<br>- Competitive Programming — grinding LeetCode daily<br>- Backend projects<br>| 🤝 Looking to Collaborate On<br>- Open source projects<br>- DevOps / Cloud tools<br>- Competitive programming<br>|🌱 Currently Learning<br>- Django (backend framework)<br>- Terminal & shell workflows<br>| 💬 Ask Me About<br>- Competitive Programming<br>- Backend Development<br>- DevOps & Cloud<br>|⚡ Fun Fact<br>I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻
 
