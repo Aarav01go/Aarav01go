@@ -2,7 +2,6 @@
 <div align="right">
   <img src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
 </div>
-
 💫 About Me:
 # 🔭 Currently Working On<br>- Competitive Programming — grinding LeetCode daily<br>- Backend projects<br><br>### 🤝 Looking to Collaborate On<br>- Open source projects<br>- DevOps / Cloud tools<br>- Competitive programming<br><br>### 🌱 Currently Learning<br>- Django (backend framework)<br>- Terminal & shell workflows<br><br>### 💬 Ask Me About<br>- Competitive Programming<br>- Backend Development<br>- DevOps & Cloud<br><br>### ⚡ Fun Fact<br>I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻
 
@@ -27,12 +26,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarav01go&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarav01go&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
-</p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav01go&count_private=true" alt="GitHub Streak" />
 </p>
