@@ -1,14 +1,23 @@
 ## Hi there 👋, I'm Aarav
-<img align="right" src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
-💫 About Me :<br>
-🔭 Currently Working On — Competitive Programming · Backend Projects<br>
-🤝 Looking to Collaborate On — Open Source · DevOps / Cloud · Competitive Programming<br>
-🌱 Currently Learning — Django · Terminal & Shell Workflows<br>
-💬 Ask Me About — Competitive Programming · Backend Development · DevOps & Cloud<br>
-⚡ Fun Fact — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻<br>
 
- 🌐 Socials:<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aarav05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-gupta-67369930b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravg901@gmail.com) 
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+
+💫 **About Me**<br>
+🔭 **Currently Working On** — Competitive Programming · Backend Projects<br>
+🤝 **Looking to Collaborate On** — Open Source · DevOps / Cloud · Competitive Programming<br>
+🌱 **Currently Learning** — Django · Terminal & Shell Workflows<br>
+💬 **Ask Me About** — Competitive Programming · Backend Development · DevOps & Cloud<br>
+⚡ **Fun Fact** — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code. 🧑‍💻<br>
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aarav05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-gupta-67369930b)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravg901@gmail.com)
 
  💻 Tech Stack:
 
@@ -28,10 +37,8 @@
 **Design & Creative**<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav01go&count_private=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
