@@ -28,7 +28,10 @@
 **Design & Creative**<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav01go&count_private=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
