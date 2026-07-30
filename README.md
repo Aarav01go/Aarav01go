@@ -1,10 +1,8 @@
 ## Hi there 👋, I'm Aarav
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+<img align="right" src="https://github.com/user-attachments/assets/7579eda1-f0fc-431e-88e5-0658bdd4aafc" width="150" alt="Spider-Man Peace Sign" />
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 💫 **About Me**<br>
 🔭 **Currently Working On** — Competitive Programming · Backend Projects<br>
