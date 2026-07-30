@@ -15,8 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aarav05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-gupta-67369930b)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravg901@gmail.com)
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aarav01go&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
  💻 Tech Stack:
 
