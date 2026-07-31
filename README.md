@@ -6,9 +6,9 @@
 💫 **About Me**<br>
 🔭 **Currently Working On** — Competitive Programming · Backend Projects<br>
 🤝 **Looking to Collaborate On** — Open Source · DevOps / Cloud · Competitive Programming<br>
-🌱 **Currently Learning** — Django · Terminal & Shell Workflows<br>
+🌱 **Currently Learning** — Fast Api · Terminal & Shell Workflows<br>
 💬 **Ask Me About** — Competitive Programming · Backend Development · DevOps & Cloud<br>
-⚡ **Fun Fact** — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code.🧑‍💻<br>
+⚡ **Fun Fact** — I probably spend just as much time tweaking my VS Code and gaming gear as I do writing code.<br>
 
 ## 🌐 Socials
 
